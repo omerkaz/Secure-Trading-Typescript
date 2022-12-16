@@ -19,7 +19,7 @@
 
 ## Links
 
-- [Live Website](https://splendorous-nasturtium-b2da46.netlify.app/)
+- [Live Website](https://secure-trading-typescript-omerkaz.vercel.app/)
 
 ## Libraries-Tools
 
