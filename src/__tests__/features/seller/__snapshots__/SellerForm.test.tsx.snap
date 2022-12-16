@@ -1,0 +1,630 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SellerForm elements renders correctly snapshot test 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <form
+        action="#"
+      >
+        <div
+          class="border rounded px-3 pt-2"
+        >
+          <div
+            class="row mb-md-2 mb-sm-1"
+          >
+            <div
+              class="col-md-6 col-sm-12 mt-2"
+            >
+              <div
+                class="form-outline"
+              >
+                <select
+                  class="w-100 border rounded"
+                  name="legalOrRealPerson"
+                  values="gerçek"
+                >
+                  <option
+                    value="gerçek"
+                  >
+                    Gerçek Kişi
+                  </option>
+                  <option
+                    value="tüzel"
+                  >
+                    Tüzel Kişi
+                  </option>
+                </select>
+              </div>
+            </div>
+            <div
+              class="col-md-6 col-sm-12 mt-2"
+            >
+              <div
+                class="form-outline"
+              >
+                <label
+                  class="d-md-none d-sm-block text-center mb-1"
+                >
+                  Tc Kimlik Numarası
+                </label>
+                <input
+                  class="w-100 border rounded"
+                  name="TCNumber"
+                  placeholder="Tc Kimlik Numarası"
+                  value=""
+                  values=""
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="row mb-md-3 mb-sm-1"
+          >
+            <div
+              class="col-md-6 col-sm-12 mt-2"
+            >
+              <div
+                class="form-outline"
+              >
+                <label
+                  class="d-md-none d-sm-block text-center mb-1"
+                >
+                  İsim Soyisim
+                </label>
+                <input
+                  class="w-100 border rounded"
+                  name="fullName"
+                  placeholder="İsim Soyisim"
+                  value=""
+                  values=""
+                />
+              </div>
+            </div>
+            <div
+              class="col-md-6 col-sm-12 mt-2"
+            >
+              <div
+                class="form-outline"
+              >
+                <label
+                  class="d-md-none d-sm-block text-center mb-1"
+                >
+                  Satıcı Telefon Numarası
+                </label>
+                <input
+                  class="w-100 border rounded"
+                  name="sellerPhoneNumber"
+                  placeholder="Satıcı Telefon Numarası"
+                  value=""
+                  values=""
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="row mb-md-3 mb-sm-1"
+          >
+            <div
+              class="col-md-6 col-sm-12 mt-2"
+            >
+              <div
+                class="form-outline"
+              >
+                <label
+                  class="d-md-none d-sm-block text-center mb-1"
+                >
+                  Satıcı Email
+                </label>
+                <input
+                  class="w-100 border rounded"
+                  name="sellerEmail"
+                  placeholder="Satıcı Email"
+                  value=""
+                  values=""
+                />
+              </div>
+            </div>
+            <div
+              class="col-md-6 col-sm-12 mt-2"
+            >
+              <div
+                class="form-outline"
+              >
+                <label
+                  class="d-md-none d-sm-block text-center mb-1"
+                >
+                  Alıcı Telefon Numarası
+                </label>
+                <input
+                  class="w-100 border rounded"
+                  name="buyerPhoneNumber"
+                  placeholder="Alıcı Telefon Numarası"
+                  value=""
+                  values=""
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="row mb-md-3 mb-sm-1"
+          >
+            <div
+              class="col-md-6 col-sm-12 mt-2"
+            >
+              <div
+                class="form-outline"
+              >
+                <label
+                  class="d-md-none d-sm-block text-center mb-1"
+                >
+                  Alıcı Email
+                </label>
+                <input
+                  class="w-100 border rounded"
+                  name="buyerEmail"
+                  placeholder="Alıcı Email"
+                  value=""
+                  values=""
+                />
+              </div>
+            </div>
+            <div
+              class="col-md-6 col-sm-12 mt-2"
+            >
+              <div
+                class="form-outline"
+              >
+                <label
+                  class="d-md-none d-sm-block text-center mb-1"
+                >
+                  Satıcı IBAN
+                </label>
+                <input
+                  class="w-100 border rounded"
+                  name="sellerIBAN"
+                  placeholder="Satıcı IBAN"
+                  value=""
+                  values=""
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="row mb-md-3 mb-sm-1"
+          >
+            <div
+              class="col-md-6 col-sm-12 mt-2"
+            >
+              <div
+                class="form-outline"
+              >
+                <label
+                  class="d-md-none d-sm-block text-center mb-1"
+                >
+                  Araç Plaka Numarası
+                </label>
+                <input
+                  class="w-100 border rounded"
+                  name="vehicleNumber"
+                  placeholder="Araç Plaka Numarası"
+                  value=""
+                  values=""
+                />
+              </div>
+            </div>
+            <div
+              class="col-md-6 col-sm-12 mt-2"
+            >
+              <div
+                class="form-outline"
+              >
+                <label
+                  class="d-md-none d-sm-block text-center mb-1"
+                >
+                  Satış Tutarı
+                </label>
+                <input
+                  class="w-100 border rounded"
+                  name="price"
+                  placeholder="Satış Tutarı"
+                  value=""
+                  values=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="border rounded px-3 pt-2"
+        >
+          <label
+            class="mb-3 d-block"
+          >
+            <input
+              class="me-1"
+              name="consentTextKVKK"
+              type="checkbox"
+              value="false"
+              values="false"
+            />
+            Tarafıma hizmet sunulması amacıyla, bulut tabanlı yazılımların yurt dışında tutulması nedeniyle kişisel verilerimin yurt dışına aktarılmasına ilişkin Açık Rıza Metni'ni okudum. Kişisel verilerimin bu kapsamda aktarılmasına onay veriyorum.
+          </label>
+          <label
+            class="mb-3 d-block"
+          >
+            <input
+              class="me-1"
+              name="consentTextCompany"
+              type="checkbox"
+              value="false"
+              values="false"
+            />
+            TURK Elektronik Para A.Ş. tarafından; yukarıda yer alan iletişim bilgilerime, bilgilendirme, mal ve hizmet tanıtımı, reklam ve promosyon gibi amaçlarla yararlı olabilecek içeriklere ulaşabilmem için ticari elektronik ileti gönderilmesini her zaman reddetme hakkımın saklı olduğunu bilerek onay veriyorum.
+          </label>
+          <span
+            class="mb-3 d-block"
+          >
+            Kişisel verileriniz talebinizin gerçekleştirilmesi amacıyla 6698 Sayılı Kanun kapsamında işlenmektedir. Aydınlatma Metnine 
+            <b>
+              buradan
+            </b>
+             ulaşabilirsiniz.
+          </span>
+        </div>
+        <div
+          class="d-flex justify-content-center mt-2"
+        >
+          <button
+            class="button"
+            type="submit"
+          >
+            <span
+              style="color: rgb(221, 221, 221);"
+            >
+              Gönder
+            </span>
+          </button>
+        </div>
+      </form>
+    </div>
+  </body>,
+  "container": <div>
+    <form
+      action="#"
+    >
+      <div
+        class="border rounded px-3 pt-2"
+      >
+        <div
+          class="row mb-md-2 mb-sm-1"
+        >
+          <div
+            class="col-md-6 col-sm-12 mt-2"
+          >
+            <div
+              class="form-outline"
+            >
+              <select
+                class="w-100 border rounded"
+                name="legalOrRealPerson"
+                values="gerçek"
+              >
+                <option
+                  value="gerçek"
+                >
+                  Gerçek Kişi
+                </option>
+                <option
+                  value="tüzel"
+                >
+                  Tüzel Kişi
+                </option>
+              </select>
+            </div>
+          </div>
+          <div
+            class="col-md-6 col-sm-12 mt-2"
+          >
+            <div
+              class="form-outline"
+            >
+              <label
+                class="d-md-none d-sm-block text-center mb-1"
+              >
+                Tc Kimlik Numarası
+              </label>
+              <input
+                class="w-100 border rounded"
+                name="TCNumber"
+                placeholder="Tc Kimlik Numarası"
+                value=""
+                values=""
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="row mb-md-3 mb-sm-1"
+        >
+          <div
+            class="col-md-6 col-sm-12 mt-2"
+          >
+            <div
+              class="form-outline"
+            >
+              <label
+                class="d-md-none d-sm-block text-center mb-1"
+              >
+                İsim Soyisim
+              </label>
+              <input
+                class="w-100 border rounded"
+                name="fullName"
+                placeholder="İsim Soyisim"
+                value=""
+                values=""
+              />
+            </div>
+          </div>
+          <div
+            class="col-md-6 col-sm-12 mt-2"
+          >
+            <div
+              class="form-outline"
+            >
+              <label
+                class="d-md-none d-sm-block text-center mb-1"
+              >
+                Satıcı Telefon Numarası
+              </label>
+              <input
+                class="w-100 border rounded"
+                name="sellerPhoneNumber"
+                placeholder="Satıcı Telefon Numarası"
+                value=""
+                values=""
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="row mb-md-3 mb-sm-1"
+        >
+          <div
+            class="col-md-6 col-sm-12 mt-2"
+          >
+            <div
+              class="form-outline"
+            >
+              <label
+                class="d-md-none d-sm-block text-center mb-1"
+              >
+                Satıcı Email
+              </label>
+              <input
+                class="w-100 border rounded"
+                name="sellerEmail"
+                placeholder="Satıcı Email"
+                value=""
+                values=""
+              />
+            </div>
+          </div>
+          <div
+            class="col-md-6 col-sm-12 mt-2"
+          >
+            <div
+              class="form-outline"
+            >
+              <label
+                class="d-md-none d-sm-block text-center mb-1"
+              >
+                Alıcı Telefon Numarası
+              </label>
+              <input
+                class="w-100 border rounded"
+                name="buyerPhoneNumber"
+                placeholder="Alıcı Telefon Numarası"
+                value=""
+                values=""
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="row mb-md-3 mb-sm-1"
+        >
+          <div
+            class="col-md-6 col-sm-12 mt-2"
+          >
+            <div
+              class="form-outline"
+            >
+              <label
+                class="d-md-none d-sm-block text-center mb-1"
+              >
+                Alıcı Email
+              </label>
+              <input
+                class="w-100 border rounded"
+                name="buyerEmail"
+                placeholder="Alıcı Email"
+                value=""
+                values=""
+              />
+            </div>
+          </div>
+          <div
+            class="col-md-6 col-sm-12 mt-2"
+          >
+            <div
+              class="form-outline"
+            >
+              <label
+                class="d-md-none d-sm-block text-center mb-1"
+              >
+                Satıcı IBAN
+              </label>
+              <input
+                class="w-100 border rounded"
+                name="sellerIBAN"
+                placeholder="Satıcı IBAN"
+                value=""
+                values=""
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="row mb-md-3 mb-sm-1"
+        >
+          <div
+            class="col-md-6 col-sm-12 mt-2"
+          >
+            <div
+              class="form-outline"
+            >
+              <label
+                class="d-md-none d-sm-block text-center mb-1"
+              >
+                Araç Plaka Numarası
+              </label>
+              <input
+                class="w-100 border rounded"
+                name="vehicleNumber"
+                placeholder="Araç Plaka Numarası"
+                value=""
+                values=""
+              />
+            </div>
+          </div>
+          <div
+            class="col-md-6 col-sm-12 mt-2"
+          >
+            <div
+              class="form-outline"
+            >
+              <label
+                class="d-md-none d-sm-block text-center mb-1"
+              >
+                Satış Tutarı
+              </label>
+              <input
+                class="w-100 border rounded"
+                name="price"
+                placeholder="Satış Tutarı"
+                value=""
+                values=""
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="border rounded px-3 pt-2"
+      >
+        <label
+          class="mb-3 d-block"
+        >
+          <input
+            class="me-1"
+            name="consentTextKVKK"
+            type="checkbox"
+            value="false"
+            values="false"
+          />
+          Tarafıma hizmet sunulması amacıyla, bulut tabanlı yazılımların yurt dışında tutulması nedeniyle kişisel verilerimin yurt dışına aktarılmasına ilişkin Açık Rıza Metni'ni okudum. Kişisel verilerimin bu kapsamda aktarılmasına onay veriyorum.
+        </label>
+        <label
+          class="mb-3 d-block"
+        >
+          <input
+            class="me-1"
+            name="consentTextCompany"
+            type="checkbox"
+            value="false"
+            values="false"
+          />
+          TURK Elektronik Para A.Ş. tarafından; yukarıda yer alan iletişim bilgilerime, bilgilendirme, mal ve hizmet tanıtımı, reklam ve promosyon gibi amaçlarla yararlı olabilecek içeriklere ulaşabilmem için ticari elektronik ileti gönderilmesini her zaman reddetme hakkımın saklı olduğunu bilerek onay veriyorum.
+        </label>
+        <span
+          class="mb-3 d-block"
+        >
+          Kişisel verileriniz talebinizin gerçekleştirilmesi amacıyla 6698 Sayılı Kanun kapsamında işlenmektedir. Aydınlatma Metnine 
+          <b>
+            buradan
+          </b>
+           ulaşabilirsiniz.
+        </span>
+      </div>
+      <div
+        class="d-flex justify-content-center mt-2"
+      >
+        <button
+          class="button"
+          type="submit"
+        >
+          <span
+            style="color: rgb(221, 221, 221);"
+          >
+            Gönder
+          </span>
+        </button>
+      </div>
+    </form>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

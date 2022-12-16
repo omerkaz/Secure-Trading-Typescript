@@ -1,0 +1,360 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CancelForm elements renders correctly snapshot test 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <p
+          class="text-center fs-4 mb-0 fw-bold"
+        >
+          BAŞVURU İPTAL BİLGİLERİ
+        </p>
+        <form
+          action="#"
+        >
+          <div
+            class="border rounded px-3 pt-2 "
+          >
+            <div
+              class="row mb-md-2 mb-sm-1 "
+            >
+              <div
+                class="form-outline d-flex justify-content-center"
+              >
+                <select
+                  class="w-50 border rounded h-100"
+                  name="legalOrRealPerson"
+                  values="gerçek"
+                >
+                  <option
+                    value="gerçek"
+                  >
+                    Gerçek Kişi
+                  </option>
+                  <option
+                    value="tüzel"
+                  >
+                    Tüzel Kişi
+                  </option>
+                </select>
+              </div>
+              <div
+                class="form-outline d-flex justify-content-center"
+              >
+                <div
+                  class="col-md-6 col-sm-12 mt-2"
+                >
+                  <div
+                    class="form-outline"
+                  >
+                    <label
+                      class="d-md-none d-sm-block text-center mb-1"
+                    >
+                      TC Kimlik Numarası
+                    </label>
+                    <input
+                      class="w-100 border rounded"
+                      name="TCNumber"
+                      placeholder="TC Kimlik Numarası"
+                      value=""
+                      values=""
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="form-outline d-flex justify-content-center"
+              >
+                <div
+                  class="col-md-6 col-sm-12 mt-2"
+                >
+                  <div
+                    class="form-outline"
+                  >
+                    <label
+                      class="d-md-none d-sm-block text-center mb-1"
+                    >
+                      Cep Telefonu Numarası
+                    </label>
+                    <input
+                      class="w-100 border rounded"
+                      name="phoneNumber"
+                      placeholder="Cep Telefonu Numarası"
+                      value=""
+                      values=""
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="form-outline d-flex justify-content-center"
+              >
+                <div
+                  class="col-md-6 col-sm-12 mt-2"
+                >
+                  <div
+                    class="form-outline"
+                  >
+                    <label
+                      class="d-md-none d-sm-block text-center mb-1"
+                    >
+                      İptal Nedeni
+                    </label>
+                    <textarea
+                      class="w-100 border rounded"
+                      name="cancelMessage"
+                      placeholder="İptal Nedeni"
+                      values=""
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="form-outline d-flex justify-content-center"
+              >
+                <div
+                  class="col-md-6 col-sm-12 mt-2"
+                >
+                  <div
+                    class="form-outline"
+                  >
+                    <label
+                      class="d-md-none d-sm-block text-center mb-1"
+                    >
+                      Referans Kodu
+                    </label>
+                    <input
+                      class="w-100 border rounded"
+                      name="referenceCode"
+                      placeholder="Referans Kodu"
+                      value=""
+                      values=""
+                    />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="d-flex justify-content-center mt-2"
+              >
+                <button
+                  class="button"
+                  type="submit"
+                >
+                  <span
+                    style="color: rgb(221, 221, 221);"
+                  >
+                    Gönder
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <p
+        class="text-center fs-4 mb-0 fw-bold"
+      >
+        BAŞVURU İPTAL BİLGİLERİ
+      </p>
+      <form
+        action="#"
+      >
+        <div
+          class="border rounded px-3 pt-2 "
+        >
+          <div
+            class="row mb-md-2 mb-sm-1 "
+          >
+            <div
+              class="form-outline d-flex justify-content-center"
+            >
+              <select
+                class="w-50 border rounded h-100"
+                name="legalOrRealPerson"
+                values="gerçek"
+              >
+                <option
+                  value="gerçek"
+                >
+                  Gerçek Kişi
+                </option>
+                <option
+                  value="tüzel"
+                >
+                  Tüzel Kişi
+                </option>
+              </select>
+            </div>
+            <div
+              class="form-outline d-flex justify-content-center"
+            >
+              <div
+                class="col-md-6 col-sm-12 mt-2"
+              >
+                <div
+                  class="form-outline"
+                >
+                  <label
+                    class="d-md-none d-sm-block text-center mb-1"
+                  >
+                    TC Kimlik Numarası
+                  </label>
+                  <input
+                    class="w-100 border rounded"
+                    name="TCNumber"
+                    placeholder="TC Kimlik Numarası"
+                    value=""
+                    values=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="form-outline d-flex justify-content-center"
+            >
+              <div
+                class="col-md-6 col-sm-12 mt-2"
+              >
+                <div
+                  class="form-outline"
+                >
+                  <label
+                    class="d-md-none d-sm-block text-center mb-1"
+                  >
+                    Cep Telefonu Numarası
+                  </label>
+                  <input
+                    class="w-100 border rounded"
+                    name="phoneNumber"
+                    placeholder="Cep Telefonu Numarası"
+                    value=""
+                    values=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="form-outline d-flex justify-content-center"
+            >
+              <div
+                class="col-md-6 col-sm-12 mt-2"
+              >
+                <div
+                  class="form-outline"
+                >
+                  <label
+                    class="d-md-none d-sm-block text-center mb-1"
+                  >
+                    İptal Nedeni
+                  </label>
+                  <textarea
+                    class="w-100 border rounded"
+                    name="cancelMessage"
+                    placeholder="İptal Nedeni"
+                    values=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="form-outline d-flex justify-content-center"
+            >
+              <div
+                class="col-md-6 col-sm-12 mt-2"
+              >
+                <div
+                  class="form-outline"
+                >
+                  <label
+                    class="d-md-none d-sm-block text-center mb-1"
+                  >
+                    Referans Kodu
+                  </label>
+                  <input
+                    class="w-100 border rounded"
+                    name="referenceCode"
+                    placeholder="Referans Kodu"
+                    value=""
+                    values=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="d-flex justify-content-center mt-2"
+            >
+              <button
+                class="button"
+                type="submit"
+              >
+                <span
+                  style="color: rgb(221, 221, 221);"
+                >
+                  Gönder
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

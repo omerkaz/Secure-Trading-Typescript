@@ -1,0 +1,406 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Root elements renders correctly snapshot test 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="mainOutline"
+      >
+        <header
+          class="border-bottom border-dark py-2 header"
+        >
+          <a
+            class="text-center fw-bold brand text-decoration-none text-dark"
+            href="/"
+          >
+            <h1>
+              Secure Trading
+            </h1>
+          </a>
+          <h3
+            class="text-center fs-6 brand font"
+          >
+            Sizin için...
+          </h3>
+        </header>
+        <main
+          class="container my-4 border pt-4 pb-4 border-3 rounded main"
+        />
+        <footer
+          class="text-center text-lg-start"
+        >
+          <section
+            class=""
+          >
+            <div
+              class="container text-center text-md-start mt-5"
+            >
+              <div
+                class="row mt-3 pt-4"
+              >
+                <div
+                  class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4"
+                >
+                  <h6
+                    class="text-uppercase fw-bolder mb-4"
+                  >
+                    Secure Trading
+                  </h6>
+                  <p>
+                    Firmamız, alıcılar ve satıcılar arasında güvenli ve adil bir ticaret ortamı oluşturur. Bu sayede, her iki taraf da memnun kalarak, ticaretin daha da büyümesine katkıda bulunur.
+                  </p>
+                </div>
+                <div
+                  class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4"
+                >
+                  <h6
+                    class="text-uppercase fw-bold mb-4"
+                  >
+                    Products
+                  </h6>
+                  <a
+                    class="text-reset fs-6"
+                    href="/sellerapplication"
+                  >
+                    Satıcı Başvurusu Oluştur
+                  </a>
+                  <hr />
+                  <a
+                    class="text-reset fs-6"
+                    href="/buyerapplication"
+                  >
+                    Alıcı Başvurusu Oluştur
+                  </a>
+                  <hr />
+                  <a
+                    class="text-reset fs-6"
+                    href="/applicationstatus"
+                  >
+                    Başvuru Durum Sorgula
+                  </a>
+                  <hr />
+                  <a
+                    class="text-reset fs-6"
+                    href="/applicationcancel"
+                  >
+                    Başvuru İptal
+                  </a>
+                </div>
+                <div
+                  class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4"
+                >
+                  <h6
+                    class="text-uppercase fw-bold mb-4"
+                  >
+                    Useful links
+                  </h6>
+                  <p>
+                    <a
+                      class="text-reset"
+                      href="#!"
+                    >
+                      Pricing
+                    </a>
+                  </p>
+                  <p>
+                    <a
+                      class="text-reset"
+                      href="#!"
+                    >
+                      Settings
+                    </a>
+                  </p>
+                  <p>
+                    <a
+                      class="text-reset"
+                      href="#!"
+                    >
+                      Orders
+                    </a>
+                  </p>
+                  <p>
+                    <a
+                      class="text-reset"
+                      href="#!"
+                    >
+                      Help
+                    </a>
+                  </p>
+                </div>
+                <div
+                  class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4"
+                >
+                  <h6
+                    class="text-uppercase fw-bold mb-4"
+                  >
+                    Contact
+                  </h6>
+                  <p>
+                    <i
+                      class="fas fa-home me-3 text-secondary"
+                    />
+                     
+                    New York, NY 10012, US
+                  </p>
+                  <p>
+                    <i
+                      class="fas fa-envelope me-3 text-secondary"
+                    />
+                    info@example.com
+                  </p>
+                  <p>
+                    <i
+                      class="fas fa-phone me-3 text-secondary"
+                    />
+                     
+                    + 01 234 567 88
+                  </p>
+                  <p>
+                    <i
+                      class="fas fa-print me-3 text-secondary"
+                    />
+                     
+                    + 01 234 567 89
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+          <div
+            class="text-center p-4"
+            style="background-color: rgba(0, 0, 0, 0.025);"
+          >
+            © 2022 Copyright ST
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="mainOutline"
+    >
+      <header
+        class="border-bottom border-dark py-2 header"
+      >
+        <a
+          class="text-center fw-bold brand text-decoration-none text-dark"
+          href="/"
+        >
+          <h1>
+            Secure Trading
+          </h1>
+        </a>
+        <h3
+          class="text-center fs-6 brand font"
+        >
+          Sizin için...
+        </h3>
+      </header>
+      <main
+        class="container my-4 border pt-4 pb-4 border-3 rounded main"
+      />
+      <footer
+        class="text-center text-lg-start"
+      >
+        <section
+          class=""
+        >
+          <div
+            class="container text-center text-md-start mt-5"
+          >
+            <div
+              class="row mt-3 pt-4"
+            >
+              <div
+                class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4"
+              >
+                <h6
+                  class="text-uppercase fw-bolder mb-4"
+                >
+                  Secure Trading
+                </h6>
+                <p>
+                  Firmamız, alıcılar ve satıcılar arasında güvenli ve adil bir ticaret ortamı oluşturur. Bu sayede, her iki taraf da memnun kalarak, ticaretin daha da büyümesine katkıda bulunur.
+                </p>
+              </div>
+              <div
+                class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4"
+              >
+                <h6
+                  class="text-uppercase fw-bold mb-4"
+                >
+                  Products
+                </h6>
+                <a
+                  class="text-reset fs-6"
+                  href="/sellerapplication"
+                >
+                  Satıcı Başvurusu Oluştur
+                </a>
+                <hr />
+                <a
+                  class="text-reset fs-6"
+                  href="/buyerapplication"
+                >
+                  Alıcı Başvurusu Oluştur
+                </a>
+                <hr />
+                <a
+                  class="text-reset fs-6"
+                  href="/applicationstatus"
+                >
+                  Başvuru Durum Sorgula
+                </a>
+                <hr />
+                <a
+                  class="text-reset fs-6"
+                  href="/applicationcancel"
+                >
+                  Başvuru İptal
+                </a>
+              </div>
+              <div
+                class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4"
+              >
+                <h6
+                  class="text-uppercase fw-bold mb-4"
+                >
+                  Useful links
+                </h6>
+                <p>
+                  <a
+                    class="text-reset"
+                    href="#!"
+                  >
+                    Pricing
+                  </a>
+                </p>
+                <p>
+                  <a
+                    class="text-reset"
+                    href="#!"
+                  >
+                    Settings
+                  </a>
+                </p>
+                <p>
+                  <a
+                    class="text-reset"
+                    href="#!"
+                  >
+                    Orders
+                  </a>
+                </p>
+                <p>
+                  <a
+                    class="text-reset"
+                    href="#!"
+                  >
+                    Help
+                  </a>
+                </p>
+              </div>
+              <div
+                class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4"
+              >
+                <h6
+                  class="text-uppercase fw-bold mb-4"
+                >
+                  Contact
+                </h6>
+                <p>
+                  <i
+                    class="fas fa-home me-3 text-secondary"
+                  />
+                   
+                  New York, NY 10012, US
+                </p>
+                <p>
+                  <i
+                    class="fas fa-envelope me-3 text-secondary"
+                  />
+                  info@example.com
+                </p>
+                <p>
+                  <i
+                    class="fas fa-phone me-3 text-secondary"
+                  />
+                   
+                  + 01 234 567 88
+                </p>
+                <p>
+                  <i
+                    class="fas fa-print me-3 text-secondary"
+                  />
+                   
+                  + 01 234 567 89
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <div
+          class="text-center p-4"
+          style="background-color: rgba(0, 0, 0, 0.025);"
+        >
+          © 2022 Copyright ST
+        </div>
+      </footer>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

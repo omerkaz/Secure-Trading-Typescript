@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@400;500;600;700&family=Dosis:wght@200;300;400;500;600;700&display=swap');
+
+.font {
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'La Belle Aurore', cursive;
+}
+
+.brand {
+    text-shadow: 2px 2px 16px rgba(0, 0, 0, 1);
+}
+
+.header {
+    background: linear-gradient(-45deg, #1b6583, #5594b1, #abe1eb, #a4d5f7);
+}
