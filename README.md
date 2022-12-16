@@ -1,5 +1,7 @@
 # PROJECT : Secure Trading TEST CASE
 
+### Please install dependencies with `npm install --legacy-peer-deps` command to avoid conflicts
+
 ## Table of contents
 
 - [Screenshot](#screenshot)
